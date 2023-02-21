@@ -1,0 +1,20 @@
+{
+    "name": "ONTO Wallet",
+    "slug": "onto-wallet",
+    "tags": [
+      "wallet"
+    ],
+    "status": "live",
+    "highlight": "A Multi-Chain Digital Wallet.",
+    "logo": "/img/onto-wallet.png",
+    "website": "https://onto.app/",
+    "twitter": "https://twitter.com/ONTOWallet",
+    "telegram": "https://t.me/ONTOWallet",
+    "github": "https://github.com/ONTO-Data-Wallet",
+    "discord": "https://discord.gg/vukFfkFMzT",
+    "summary": "",
+    "docs": "",
+    "cmc": "",
+    "date": "",
+    "token": ""
+  }
